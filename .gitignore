@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.env
+service-account.json
+state.json
+bot.log
+bot.err.log

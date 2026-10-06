@@ -1,0 +1,4 @@
+aiogram==3.22.0
+google-api-python-client
+google-auth
+python-dotenv==1.0.1
